@@ -1,5 +1,10 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import 'bootstrap.min.css'
+import 'bootstrap-grid.css'
+import 'bootstrap-reboot.css'
+import 'bootstrap-reboot.min.css'
+import 'bootstrap.css'
 
 export default function Navbar() {
     return (
